@@ -38,11 +38,15 @@ Customer Feedback: Analyze customer ratings and feedback to gauge overall satisf
 ## Data Handling Steps: 
 To accomplish these goals, the following data processing steps are essential:
 
-**Data Import**: Import the dataset into Microsoft Excel.
-**Data Cleaning**: Clean the data by addressing missing values, removing duplicates, and ensuring data consistency.
-**Data Transformation**: Create calculated columns if necessary, such as converting the "Rating Given" column to a numerical format.
-**Data Analysis**: Utilize Excel's functions and tools to perform data analysis. For instance, employ pivot tables to scrutinize contact types, agent performance, and order-related contacts.
-**Data Visualization**: Create charts, graphs, and tables to visually represent the findings and insights. For example, use bar charts to depict the distribution of contact types and agent performance.
+**1. Data Import**: Import the dataset into Microsoft Excel.
+
+**2. Data Cleaning**: Clean the data by addressing missing values, removing duplicates, and ensuring data consistency.
+
+**3.Data Transformation**: Create calculated columns if necessary, such as converting the "Rating Given" column to a numerical format.
+
+**4.Data Analysis**: Utilize Excel's functions and tools to perform data analysis. For instance, employ pivot tables to scrutinize contact types, agent performance, and order-related contacts.
+
+**5.Data Visualization**: Create charts, graphs, and tables to visually represent the findings and insights. For example, use bar charts to depict the distribution of contact types and agent performance.
 
 
 ## Key Insights: 
